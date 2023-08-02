@@ -1,3 +1,6 @@
+<h2> Hello World, I'm Trevon Charles! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FEFF00&background=B4FF4500&width=435&height=56&lines=Front-End+Developer;Music+Producer;Recording+Enigneer)](https://git.io/typing-svg)
 
 I'm a Software Engineer based in Brookyln, NY, dedicated to developing technologies and creating music that can help communities and bring people together.
