@@ -1,4 +1,4 @@
-<h2> Hello World, I'm Trevon Charles! <img src="https://media.giphy.com/media/vyamsA5eucbB7BejSQ/giphy.gif" width="50"></h2>
+<h2> Hello World , I'm Trevon Charles! <img src="https://media.giphy.com/media/vyamsA5eucbB7BejSQ/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/2wZTHxL9tGLKTWJzMN/giphy.gif" width="230">
 
 
